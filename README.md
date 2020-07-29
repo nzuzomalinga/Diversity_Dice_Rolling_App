@@ -1,6 +1,6 @@
 > # Diversity_Dice_Rolling_App
 > - An open source dice rolling application I created inspired by the black lives matter movement
-> created to show case a fun inclusive app that upholds the values of diverse representation.
+
 
 >> ## Source Code
 > - Source code is openly available above for fair use. I encourage alkterations to my code for your own use and would love to hear back from you if you come 
