@@ -10,7 +10,7 @@
 > - Dice face images are not included, you'll have to come up with your own or use random stock images 
 
 >> ## Things you Should Know❓
-> - Make sure your pubspec.yaml file is configured correctly for your asset files. 
+> - Make sure your pubspec.yaml file is configured correctly for your asset images directory. 
 > - Have Fun !
 
 > | Diversity Dice Roller |
