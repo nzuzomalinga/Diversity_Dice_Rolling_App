@@ -3,7 +3,7 @@
 
 
 >> ## Source Code
-> - Source code is openly available above for fair use. I encourage alkterations to my code for your own use and would love to hear back from you if you come 
+> - Source code is openly available above for fair use. I encourage alterations to my code for your own use and would love to hear back from you if you come 
 > up with something cool :smile:
 
 >> ## Exclusions
