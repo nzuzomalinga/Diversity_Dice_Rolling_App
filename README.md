@@ -1,17 +1,17 @@
-> # Diversity_Dice_Rolling_App
-> - An open source dice rolling application I created inspired by the black lives matter movement
+# Diversity_Dice_Rolling_App
+   - An open source dice rolling application I created inspired by the black lives matter movement
 
 
->> ## Source Code
-> - Source code is openly available above for fair use. I encourage alterations to my code for your own use and would love to hear back from you if you come 
-> up with something cool :smile:
+## Source Code
+  - Source code is openly available above for fair use. I encourage alterations to my code for your own use and would love to hear back from you if you come 
+ up with something cool :smile:
 
->> ## Exclusions
-> - Dice face images are not included, you'll have to come up with your own or use random stock images 
+## Exclusions
+  - Dice face images are not included, you'll have to come up with your own or use random stock images 
 
->> ## Things you Should Know❓
-> - Make sure your pubspec.yaml file is configured correctly for your asset images directory. 
-> - Have Fun !
+## Things you Should Know❓
+   - Make sure your pubspec.yaml file is configured correctly for your asset images directory. 
+   - Have Fun !
 
 > | Diversity Dice Roller |
 > | --------- |
